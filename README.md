@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Publications
+
+- [A Highly Available Real-Time News Recommender Based on Apache Spark.](https://link.springer.com/chapter/10.1007/978-3-319-65813-1_17)
+- [Real-time News Recommendations using Apache Spark](http://ceur-ws.org/Vol-1609/16090628.pdf)
+- [Recommender Ensembles for News Articles based on Most-Popular Strategies](http://ceur-ws.org/Vol-1609/16090657.pdf)
+- [An Agile Method for Multiagent Software Engineering](https://www.sciencedirect.com/science/article/pii/S1877050914007133)
