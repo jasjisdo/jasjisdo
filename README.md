@@ -1,5 +1,7 @@
 ### Hi there, welcome to my profile page on github 👋
 
+### M. Sc. Computer Science | IT-Planer Cloud Architektur at Berliner Verkehrsbetriebe (BVG) - AöR -
+
 <!--
 **jasjisdo/jasjisdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub Stats
+
+[![jasjisdo's github stats](https://github-readme-stats.vercel.app/api?username=jasjisdo&theme=dark&show_icons=true&count_private=true)](https://github.com/jasjisdo)
 
 ### Publications
 
