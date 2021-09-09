@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Social Media:**
+
+<a href="https://twitter.com/JascharDomann" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="jasjisdo" height="30"  /></a>
+<a href="https://www.linkedin.com/in/jaschar-domann-m-sc-863809113/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="jasjisdo" height="40"/></a>
+
 ### GitHub Stats
 
 [![jasjisdo's github stats](https://github-readme-stats.vercel.app/api?username=jasjisdo&theme=dark&show_icons=true&count_private=true)](https://github.com/jasjisdo)
