@@ -4,7 +4,7 @@
 
 **M. Sc. Computer Science | IT-Planer Cloud Architektur at [Berliner Verkehrsbetriebe (BVG) - AöR -](https://www.bvg.de/en)**
 
-<p align="center">
+<p align="left">
   <img alt="BVG" width="165" height="150" src="https://www.bvg.de/dam/jcr:ea2155cb-caeb-4e33-9ca2-3a6d85f4eedc/BVG_Herz_Gelb_RGB.svg">
 </p>
 
