@@ -4,7 +4,7 @@
 
 **M. Sc. Computer Science | IT-Planer Cloud Architektur at [Berliner Verkehrsbetriebe (BVG) - AöR -](https://www.bvg.de/en)**
 
-pronouns: [he/him](https://pronoun.is/he)
+* pronouns: [he/him](https://pronoun.is/he)
 
 <p align="left">
   <a href="https://www.bvg.de/en">
