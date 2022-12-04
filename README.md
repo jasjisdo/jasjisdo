@@ -1,8 +1,8 @@
 ### Hi there, welcome to my profile page on github 👋
 
-[!<svg width="100" height="100">
+[![](<svg width="100" height="100">
   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>]
+</svg>)]
 
 ### About me
 
