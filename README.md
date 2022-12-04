@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Social Media
 
-<a rel="me" href="https://mastodon.cloud/@JascharDomann" target="blank"><img align="center" src="https://mastodon.cloud/packs/media/images/logo-33a0fb4c065a0ccb90b51fcfdea6b3cf.svg" alt="JascharDomann" height="30"  /></a>
+<a rel="me" href="https://mastodon.cloud/@JascharDomann" target="blank"><img align="center" src="https://mastodon.cloud/packs/media/images/logo-33a0fb4c065a0ccb90b51fcfdea6b3cf.svg" alt="JascharDomann" height="35"  /></a>
 <a href="https://twitter.com/JascharDomann" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="jasjisdo" height="30"  /></a>
 <a href="https://www.linkedin.com/in/jaschar-domann-m-sc-863809113/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="jasjisdo" height="40"/></a>
 
