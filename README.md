@@ -2,7 +2,7 @@
 
 ### About me
 
-**M. Sc. Computer Science | IT-Planer Cloud Architektur at [Berliner Verkehrsbetriebe (BVG) - AöR -](https://www.bvg.de/en)**
+**M. Sc. Computer Science | Former IT-Planer Cloud Architektur at [Berliner Verkehrsbetriebe (BVG) - AöR -](https://www.bvg.de/en)**
 
 ### Pronouns
 
