@@ -45,3 +45,37 @@ Here are some ideas to get you started:
 - [Real-time News Recommendations using Apache Spark](http://ceur-ws.org/Vol-1609/16090628.pdf)
 - [Recommender Ensembles for News Articles based on Most-Popular Strategies](http://ceur-ws.org/Vol-1609/16090657.pdf)
 - [An Agile Method for Multiagent Software Engineering](https://www.sciencedirect.com/science/article/pii/S1877050914007133)
+
+# Datenschutzerklärung
+
+## Einleitung
+
+Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+
+Da wir in unserer App keine Daten erheben, haben Sie die Kontrolle über alle Ihre persönlichen Informationen.
+
+## Datenerfassung
+
+Unsere App erhebt keine persönlichen Daten. Das bedeutet, dass wir keinerlei Daten speichern, verarbeiten oder weitergeben.
+
+## Ihre Rechte
+
+Sie haben das Recht, jederzeit Auskunft über Ihre bei uns gespeicherten personenbezogenen Daten zu erhalten. Da wir jedoch keine Daten erheben, werden wir in der Lage sein, zu bestätigen, dass wir keine solchen Daten haben.
+
+## Änderungen
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht.
+
+## Fragen an den Datenschutzbeauftragten
+
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
+
+Jaschar Domann
+jaschar.domann@gmail.com
+
+## Schlussbemerkungen
+
+Ihre Daten sind bei uns sicher und wir verpflichten uns, die Privatsphäre jedes Benutzers zu respektieren und zu schützen.
+
+
+
