@@ -1,4 +1,4 @@
-![Bluesky_Logo](https://github.com/user-attachments/assets/d9eb6678-11f3-4a1c-b17f-79a9ba675405)### Hi there, welcome to my profile page on github 👋
+### Hi there, welcome to my profile page on github 👋
 
 ### About me
 
@@ -81,4 +81,4 @@ Ihre Daten sind bei uns sicher und wir verpflichten uns, die Privatsphäre jedes
 
 
 
-![Bluesky_Logo](https://github.com/user-attachments/assets/fd930f83-6b2e-4bbb-aaf3-730f5b422f1c)
+
