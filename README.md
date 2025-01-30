@@ -1,4 +1,4 @@
-### Hi there, welcome to my profile page on github 👋
+![Bluesky_Logo](https://github.com/user-attachments/assets/d9eb6678-11f3-4a1c-b17f-79a9ba675405)### Hi there, welcome to my profile page on github 👋
 
 ### About me
 
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Social Media
     
 <a rel="me" href="https://mastodon.cloud/@JascharDomann" target="blank"><img align="center" src="https://mastodon.cloud/packs/media/images/logo-33a0fb4c065a0ccb90b51fcfdea6b3cf.svg" alt="JascharDomann" height="40"  /></a>
+<a rel="me" href="https://bsky.app/profile/jasjisdo.bsky.social" target="blank"><img align="center" src="https://github.com/user-attachments/assets/fd930f83-6b2e-4bbb-aaf3-730f5b422f1c" alt="JascharDomann" height="40"  /></a>
 <a href="https://twitter.com/JascharDomann" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="jasjisdo" height="30"  /></a>
 <a href="https://www.linkedin.com/in/jaschar-domann-m-sc-863809113/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="jasjisdo" height="40"/></a>
 
@@ -79,3 +80,5 @@ Ihre Daten sind bei uns sicher und wir verpflichten uns, die Privatsphäre jedes
 
 
 
+
+![Bluesky_Logo](https://github.com/user-attachments/assets/fd930f83-6b2e-4bbb-aaf3-730f5b422f1c)
